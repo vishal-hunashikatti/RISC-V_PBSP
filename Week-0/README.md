@@ -8,7 +8,7 @@
 		>git --version
 	+ Configure: Open Git Bash and run
 		>git config --global user.name "Name"
-		>git config --global user.email "email@example.com"
+  >git config --global user.email "email@example.com"
 		
 - B. Creating GitHub Account
 	+ Go to Sign Up Page: Navigate to [github signup](https://github.com/signup).
