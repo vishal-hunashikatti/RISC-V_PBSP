@@ -50,6 +50,7 @@ Access Godbolt at [godbolt](https://godbolt.org/).
 
 ### Examples to explore on godbolt.
 - a. Counter: [Counter Example](https://godbolt.org/z/caKPbcGoo)
+  
 ![window](https://github.com/vishal-hunashikatti/riscv/assets/93430948/29ab8d42-36b8-4beb-a73c-d70a89095fdb)
 *a.1 Counter Example on godbolt online platform*
 
@@ -68,3 +69,7 @@ Access Godbolt at [godbolt](https://godbolt.org/).
 
 
 - b. Matrix multiplication: [Matrix-multiplication Example](https://godbolt.org/z/19Gee3KMG)
+
+![mat-mul](https://github.com/vishal-hunashikatti/riscv/assets/93430948/7788ce6f-15d9-4de0-8cbd-942a6a337d8a)  
+*b.1 Matrix multiplication Example on godbolt window*
+
