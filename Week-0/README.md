@@ -39,12 +39,12 @@
 Godbolt, also known as Compiler Explorer, is an online tool that allows users to write, compile, and analyze code in various programming languages. Godbolt is widely used by developers, educators, and students to gain insights into the compilation process and to improve their understanding of low-level code optimization and behavior.
 
 ### Key Features
-- Multi-language Support: Supports multiple programming languages, including C, C++, Rust, Go, and many more.
-- Multiple Compilers: Allows users to compile code with different compilers and versions, such as GCC, Clang, MSVC, and others.
-- Assembly Output: Displays the generated assembly code side-by-side with the source code, making it easier to understand how high-level code is translated into machine instructions.
-- Compiler Options: Provides options to customize compiler flags and settings to see how they affect the generated assembly code.
-- Code Sharing: Users can share their code and compiler settings via unique URLs.
-- Integrated Libraries: Includes a selection of standard libraries and headers, and users can include these in their code easily.
+- **Multi-language Support:** Supports multiple programming languages, including C, C++, Rust, Go, and many more.
+- **Multiple Compilers:** Allows users to compile code with different compilers and versions, such as GCC, Clang, MSVC, and others.
+- **Assembly Output:** Displays the generated assembly code side-by-side with the source code, making it easier to understand how high-level code is translated into machine instructions.
+- **Compiler Options:** Provides options to customize compiler flags and settings to see how they affect the generated assembly code.
+- **Code Sharing:** Users can share their code and compiler settings via unique URLs.
+- **Integrated Libraries:** Includes a selection of standard libraries and headers, and users can include these in their code easily.
 
 Access Godbolt at [godbolt](https://godbolt.org/).
 
