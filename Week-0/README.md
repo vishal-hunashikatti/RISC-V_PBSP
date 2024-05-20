@@ -62,7 +62,8 @@ Access Godbolt at [godbolt](https://godbolt.org/).
 ![assembly_code_for_x86-64_gcc](https://github.com/vishal-hunashikatti/riscv/assets/93430948/0ca699d6-981d-46c0-bf94-551126b1a28e)
 *a.4 Assembly code of the counter for X86-64 gcc compiler*  
 
-![Executor_window_output](https://github.com/vishal-hunashikatti/riscv/assets/93430948/bb4f0e38-cfab-49d5-aafa-3e0a01d8bb18)
+![Executor_window_output](https://github.com/vishal-hunashikatti/riscv/assets/93430948/bb4f0e38-cfab-49d5-aafa-3e0a01d8bb18)  
+
 *a.5 Output of the C program in the executor window*  
 
 
