@@ -51,7 +51,16 @@ Access Godbolt at [godbolt](https://godbolt.org/).
 ### Examples to explore on godbolt.
 - a. Counter: [Counter Example](https://godbolt.org/z/caKPbcGoo)
 ![window](https://github.com/vishal-hunashikatti/riscv/assets/93430948/29ab8d42-36b8-4beb-a73c-d70a89095fdb)
-<p style="text-align: center;">Counter Example on godbolt online platform</p>
+*Counter Example on godbolt online platform*
+![source_code](https://github.com/vishal-hunashikatti/riscv/assets/93430948/0c3a99c5-1b7e-4c87-806e-85355b86c1af)
+*Source code in C language*
+![assembly_code_for_risc-v_gcc](https://github.com/vishal-hunashikatti/riscv/assets/93430948/a6de4e99-382a-45d9-82b5-ef1cec767180)
+*Assembly code of the counter for RISC-V gcc compiler*
+![assembly_code_for_x86-64_gcc](https://github.com/vishal-hunashikatti/riscv/assets/93430948/0ca699d6-981d-46c0-bf94-551126b1a28e)
+*Assembly code of the counter for X86-64 gcc compiler*
+![Executor_window_output](https://github.com/vishal-hunashikatti/riscv/assets/93430948/bb4f0e38-cfab-49d5-aafa-3e0a01d8bb18)
+*Output of the C program in the executor window*
+
 
 
 - b. Matrix multiplication: [Matrix-multiplication Example](https://godbolt.org/z/19Gee3KMG)
