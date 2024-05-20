@@ -26,6 +26,19 @@
 
 #### 2's complement arithmetic for C
 
-## 2. 4-Bit ALU in C-programming language  
+## 2. 4-Bit ALU in C-programming language
+
+Arithmetic and Logical operations included while designing ALU
+
+- Arithmetic
+	+ Addition
+	+ Subtraction
+	+ Multiplication
+	+ Division
+	+ Modulus
+- Logical
+	+ NOT
+	+ AND
+	+ OR
 
 ## 3. 4-Bit ALU in Verilog
