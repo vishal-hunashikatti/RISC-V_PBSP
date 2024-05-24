@@ -1,0 +1,67 @@
+$date
+	Fri May 24 19:08:15 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module alu4bit_TB $end
+$var wire 4 ! ALU_output [3:0] $end
+$var reg 4 " A [3:0] $end
+$var reg 4 # B [3:0] $end
+$var reg 3 $ op_sel [2:0] $end
+$scope module instace_a1 $end
+$var wire 4 % A [3:0] $end
+$var wire 4 & B [3:0] $end
+$var wire 3 ' op_sel [2:0] $end
+$var reg 4 ( ALU_output [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1111 (
+b0 '
+b11 &
+b1100 %
+b0 $
+b11 #
+b1100 "
+b1111 !
+$end
+#10
+b1001 !
+b1001 (
+b1 $
+b1 '
+#20
+b100 !
+b100 (
+b10 $
+b10 '
+#30
+b11 $
+b11 '
+#40
+b0 !
+b0 (
+b100 $
+b100 '
+#50
+b1111 !
+b1111 (
+b101 $
+b101 '
+#60
+b11 !
+b11 (
+b110 $
+b110 '
+#70
+b1100 !
+b1100 (
+b111 $
+b111 '
+#80

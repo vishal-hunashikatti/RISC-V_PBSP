@@ -63,8 +63,7 @@
       00110010
     ```
 - The result `00110010` is a positive number.
-	- 00110010 ------> 50 
-
+	- 00110010 ------> 50
 
 ### C. 36 - 12
 
@@ -125,3 +124,17 @@ Arithmetic and Logical operations included while designing ALU
 	+ OR
 
 ## 3. 4-Bit ALU in Verilog
+
+Arithmetic and Logical operations included while designing ALU
+
+- Arithmetic
+	+ Addition
+	+ Subtraction
+	+ Multiplication
+	+ Division
+
+- Logical
+	+ AND
+	+ OR
+  + NOT
+  default case is for XOR operation
