@@ -11,7 +11,6 @@
 ##### 1's complement arithmetic for A
 - Since `10` is positive the binary representation remains same.
 - `-19 -------> 11101100`
-- `10 + (-19)`
 - Perform the addition:
 
     ```
@@ -71,7 +70,6 @@
 ##### 1's complement arithmetic for C
 - Since `36` is positive the binary representation remains same.
 - `-12 -------> 11110011`
-- `36 + (-12)`
 - Perform the addition:
 
     ```
