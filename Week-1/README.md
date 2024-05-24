@@ -86,12 +86,13 @@
     ```
 
 - The result `1 00010111` is in 1's complement form. 
-   - Ignore the carry 
+   - Ignore the carry. 
    - Since the result starts with `0`, it represents a positive number.
-   - The result is `00010111` -> `23`.
+   - Add `1` from carry to LSB `00010111` --> `00011000`
+   - The result is `00011000` -> `24`.
 
 ##### 2's complement arithmetic for C
-- Add 1 to LSB to the 1's complement of 12
+- Add 1 to LSB to the 1's complement of 12.
 	- 1's complement 0f 12 ----> 11110011
 	- 2's complement of 12 ----> 11110100
 - Perform the addition:
@@ -110,7 +111,7 @@
 
 ## 2. 4-Bit ALU in C-programming language
 
-Arithmetic and Logical operations included while designing ALU
+Arithmetic and Logical operations included while designing ALU in C program
 
 - Arithmetic
 	+ Addition
@@ -125,7 +126,7 @@ Arithmetic and Logical operations included while designing ALU
 
 ## 3. 4-Bit ALU in Verilog
 
-Arithmetic and Logical operations included while designing ALU
+Arithmetic and Logical operations included while designing ALU in Verilog
 
 - Arithmetic
 	+ Addition
@@ -136,5 +137,5 @@ Arithmetic and Logical operations included while designing ALU
 - Logical
 	+ AND
 	+ OR
-  + NOT
+  	+ NOT
   default case is for XOR operation
