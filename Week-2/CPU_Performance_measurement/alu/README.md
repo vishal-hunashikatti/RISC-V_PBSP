@@ -1,10 +1,10 @@
 ## CPU Performance Measurement
 
 ### Assumptions for the performance measurement
+- All instructions are executed only once.
+- No parallel execution of the instructions.
 - Clock Cycle Time ---------> 1 nanosecond
 - Clock Cycles per instruction ---> 5.5 cycles per instruction
-- All instructions are executed only once.
-- No parallel execution of the instructions
 - ns --------> nanosecond
 - ms --------> microsecond
 
@@ -12,13 +12,9 @@
 - Total number of instruction -----> 229
 
 ```
-                     CPU Clock Cycles     CPI * Instruction count
-CPU Execution Time = ----------------- = -------------------------
-		        Clock rate(f)           Clock rate(f)
-                   
+CPU Execution Time = CPI * Instruction count * Clock cycle time                 
                    = 229 * 5.5 * 1 ns
                    = 1.23 ms
-
 ```
 ```
 
