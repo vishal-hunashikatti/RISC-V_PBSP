@@ -4,18 +4,15 @@
 - All instructions are executed only once.
 - No parallel execution of the instructions.
 - ns --------> nanoseconds
-- Clock Cycle Time ---------> 1 nanosecond
+- Clock Cycle Time ---------> 1 ns
 - Clock Cycles per instruction ---> 5.5 cycles per instruction
 
 #### Measurements
 - Total number of instruction -----> 110.
 
 ```
-                     CPU Clock Cycles     CPI * Instruction count
-CPU Execution Time = ----------------- = -------------------------
-		        Clock rate(f)           Clock rate(f)
-                   
-                   = 110 * 2.675 * 1 ns
+CPU Execution Time = CPI * Instruction count * Clock cycle time  
+                   = 2.675 * 110 * 1 ns
                    = 294.25 ns
 
 ```
