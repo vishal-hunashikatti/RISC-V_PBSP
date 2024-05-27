@@ -3,7 +3,7 @@
 ### Assumptions for the performance measurement
 - All instructions are executed only once.
 - No parallel execution of the instructions.
-- ns --------> nanosecond
+- ns --------> nanoseconds
 - Clock Cycle Time ---------> 1 ns
 - Clock Cycles per instruction ---> 5.5 cycles per instruction
 
