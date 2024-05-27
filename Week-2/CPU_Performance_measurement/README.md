@@ -1,1 +1,1 @@
-## CPU Performance measurements for each c programs are put in the respective files
+## CPU Performance measurements for each C programs are calculated in the respective files
