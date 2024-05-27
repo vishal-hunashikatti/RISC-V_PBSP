@@ -11,13 +11,9 @@
 - Total number of instruction -----> 36
 
 ```
-                     CPU Clock Cycles     CPI * Instruction count
-CPU Execution Time = ----------------- = -------------------------
-		        Clock rate(f)           Clock rate(f)
-                   
-                   = 36 * 4 * 1 ns
+CPU Execution Time = CPI * Instruction count * Clock cycle time                   
+                   = 4 * 36 * 1 ns
                    = 144 ns
-
 ```
 ```
 
