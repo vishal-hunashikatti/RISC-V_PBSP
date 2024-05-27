@@ -5,6 +5,8 @@
 - Clock Cycles per instruction ---> 5.5 cycles per instruction
 - All instructions are executed only once.
 - No parallel execution of the instructions
+- ns --------> nanosecond
+- ms --------> microsecond
 
 #### Measurements
 - Total number of instruction -----> 229
@@ -15,7 +17,7 @@ CPU Execution Time = ----------------- = -------------------------
 		        Clock rate(f)           Clock rate(f)
                    
                    = 229 * 5.5 * 1 ns
-                   = 1.23 &micro s
+                   = 1.23 ms
 
 ```
 ```
