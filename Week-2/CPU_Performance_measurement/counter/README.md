@@ -5,6 +5,7 @@
 - Clock Cycles per instruction ---> 4 cycles per instruction
 - All instructions are executed only once.
 - No parallel execution of the instructions
+- ns --------> nanoseconds
 
 #### Measurements
 - Total number of instruction -----> 36
