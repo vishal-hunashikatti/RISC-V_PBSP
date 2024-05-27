@@ -1,11 +1,11 @@
 ## CPU Performance Measurement
 
 ### Assumptions for the performance measurement
-- Clock Cycle Time ---------> 1 nanosecond
-- Clock Cycles per instruction ---> 4 cycles per instruction
 - All instructions are executed only once.
-- No parallel execution of the instructions
-- ns --------> nanoseconds
+- No parallel execution of the instructions.
+- Clock Cycle Time ---------> 1 nanosecond
+- Clock Cycles per instruction ---> 5.5 cycles per instruction
+- ns --------> nanosecond
 
 #### Measurements
 - Total number of instruction -----> 36
