@@ -4,7 +4,7 @@
 - All instructions are executed only once.
 - No parallel execution of the instructions.
 - ns --------> nanosecond
-- Clock Cycle Time ---------> 1 nanosecond
+- Clock Cycle Time ---------> 1 ns
 - Clock Cycles per instruction ---> 5.5 cycles per instruction
 
 #### Measurements
