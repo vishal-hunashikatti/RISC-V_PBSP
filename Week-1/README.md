@@ -1,12 +1,27 @@
 # Tasks
 
+
 ## 1. Binary Arithmetic
 
 ### A. 10 - 19
 
-##### Binary representations
+#### Binary representations
 - `10 --------> 00001010`
 - `19 --------> 00010011`
+
+##### Signed arithmetic
+- `10 --------> 00001010`
+- `-19 -------> 10010011`
+
+    ```
+      00001010   (10)
+    + 10010011   (-19)
+    ------------
+      10011101
+    ```
+- The result is `10011101`.
+   - Since the result starts with `1`, it represents a negative number.
+   - The result is `-29` by signed representation convention.
 
 ##### 1's complement arithmetic for A
 - Since `10` is positive the binary representation remains same.
@@ -20,7 +35,7 @@
       11110110
     ```
 
-- The result `11110110` is in 1's complement form. 
+- The result `11110110` is in 1's complement form.
    - Since the result starts with `1`, it represents a negative number.
    - Invert the bits to find the magnitude:
      - `11110110 -> 00001001`
@@ -39,7 +54,7 @@
       11110111
     ```
 
-- The result `11110110` is in 2's complement form. 
+- The result `11110110` is in 2's complement form.
    - Since the result starts with `1`, it represents a negative number.
    - Invert the bits and add `1` to LSB to find the magnitude:
      - `11110111 -> 00001000`
@@ -50,7 +65,7 @@
 #### Binary representations
 - `20 --------> 00010100`
 - `30 --------> 00011110`
-- Since both are positive integers there will be no change in 1's or 2's complement the operations remains same
+- Since both are positive integers there will be no change in either signed or 1's or 2's complement the operations remains same for all forms of representation.
 - Perform the addition:
 
     ```
@@ -63,9 +78,23 @@
 
 ### C. 36 - 12
 
-##### Binary representations
+#### Binary representations
 - `36 --------> 00100100`
 - `12 --------> 00001100`
+
+##### Signed arithmetic
+- `36 --------> 00100100`
+- `-12 -------> 10001100`
+
+    ```
+      00100100   (36)
+    + 10001100   (-12)
+    ------------
+      10110000
+    ```
+- The result is `10110000`.
+   - Since the result starts with `1`, it represents a negative number.
+   - The result is `-48` by signed representation convention.
 
 ##### 1's complement arithmetic for C
 - Since `36` is positive the binary representation remains same.
