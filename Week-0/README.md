@@ -7,7 +7,7 @@
 	+ Verify installation by running
 		>git --version
 	+ Configure: Open Git Bash and run
-		>git config --global user.name "Name"
+		>git config --global user.name "user-ame"
 
   		>git config --global user.email "email@example.com"
 		
