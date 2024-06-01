@@ -12,8 +12,8 @@
 
 ```
 CPU Execution Time = CPI * Instruction count * Clock cycle time                   
-                   = 4 * 36 * 1 ns
-                   = 144 ns
+                   = 5.5 * 36 * 1 ns
+                   = 198 ns
 ```
 ```
 
