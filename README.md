@@ -18,3 +18,8 @@
 
 - Verify all the c code (counter, matrix multiplication, ALU code) using RISC-V compiler and spike output.
 - Measure CPU performance of all the programs mentioned above using either godbolt or RISC-V disassembler.
+
+### Week-3
+
+- Choose RISC-V IoT Application.
+- Create block diagram and flowchart for the application.
