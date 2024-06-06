@@ -35,4 +35,4 @@ Some examples for suitable data format that are accepted by the receiver:
 
 ![image](https://github.com/vishal-hunashikatti/riscv/assets/93430948/df208f18-1ec4-4c52-8312-6293adc63e02)
 
-[NEC Infrared Transmission Protocol](https://techdocs.altium.com/display/FPGA/NEC+Infrared+Transmission+Protocol)
+## [NEC Infrared Transmission Protocol](https://techdocs.altium.com/display/FPGA/NEC+Infrared+Transmission+Protocol)
