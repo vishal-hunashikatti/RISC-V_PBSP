@@ -1,4 +1,6 @@
 # AC Remote Control Signal Reader
+Read digital signals from AC remote control using IR receiver sensors and then record the ON and OFF signals and store them in an array ( As an output, show if the next time the recorded signal is the same as the previous one to verify if it's the same).
+This application is developed to read digital signals from AC remote control using IR receiver sensors and then record th ON and OFF signals and store them. The new signal read from the receiver are now compared with the previous input and display if they are same.
 
 ## IR Receiver
 
