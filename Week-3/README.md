@@ -4,6 +4,8 @@ This application is developed to read digital signals from AC remote control usi
 ### Flowchart 
 [AC remote receiver flow chart](https://github.com/vishal-hunashikatti/riscv/blob/main/Week-3/IR_reciever-flow_chart.png)
 
+### Block Diagram 
+[AC remote receiver block diagram](https://github.com/vishal-hunashikatti/riscv/blob/main/Week-3/IR_reciever_block-diagram.png)
 ## IR Receiver
 
 Some examples for suitable data format that are accepted by the receiver: 
