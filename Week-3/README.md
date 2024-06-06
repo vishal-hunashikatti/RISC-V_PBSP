@@ -3,8 +3,16 @@ This application is developed to read digital signals from AC remote control usi
 
 ## IR Receiver
 
+Some examples for suitable data format that are accepted by the receiver: 
+- NEC Code
+- Toshiba Micom Format
+- Sharp Code
+- RC5 Code
+- RC6 Code
+- R±2000 Code
+- Sony Format (SIRCS).
+
 ## Block Diagram of a IR receiver TSOP1730
 
 ![image](https://github.com/vishal-hunashikatti/riscv/assets/93430948/df208f18-1ec4-4c52-8312-6293adc63e02)
 
-![image](https://github.com/vishal-hunashikatti/riscv/assets/93430948/e06009c7-d6e6-4c45-9e6d-8f1a8d218eae)
