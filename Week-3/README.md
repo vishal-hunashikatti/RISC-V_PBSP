@@ -6,6 +6,11 @@ This application is developed to read digital signals from AC remote control usi
 
 ### Block Diagram 
 [AC remote receiver block diagram](https://github.com/vishal-hunashikatti/riscv/blob/main/Week-3/IR_reciever_block-diagram.png)
+
+### I/O Mapping
+#### GPIO mapping
+- X30[0] --> IR receiver input
+- X30[1] --> Output for LED display
 ## IR Receiver
 
 Some examples for suitable data format that are accepted by the receiver: 
