@@ -1,4 +1,6 @@
-# IR receiver
+# AC Remote Control Signal Reader
+
+## IR Receiver
 
 ## Block Diagram of a IR receiver TSOP1730
 
