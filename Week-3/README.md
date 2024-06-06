@@ -1,2 +1,2 @@
-# AC remote control using IR receiver
+# IR receiver
 
